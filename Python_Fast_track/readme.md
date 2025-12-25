@@ -1,5 +1,11 @@
+# Python_Fast_track — Python Course (Fast Track)
+
+A focused, beginner-friendly Python course repository designed for fast, practical learning through notebooks.  
+Each notebook mixes **clear notes**, **worked examples**, and **practice tasks** so learners can build confidence by doing.
 
 ---
+
+
 
 ## Notebooks Included
 
